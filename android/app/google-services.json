@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "630327568157",
+    "firebase_url": "https://dental001-c667f-default-rtdb.firebaseio.com",
+    "project_id": "dental001-c667f",
+    "storage_bucket": "dental001-c667f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630327568157:android:5863a9bedc8be94b7f23f4",
+        "android_client_info": {
+          "package_name": "com.apiero.myarrogyamoral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630327568157-8dpsoifargapbt56gmdsmgqqea4ju9h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGSGm2Ju9fk4c2Kz5LyTivr22gK-JyWB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630327568157-8dpsoifargapbt56gmdsmgqqea4ju9h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630327568157:android:cd55bd316ce8a7667f23f4",
+        "android_client_info": {
+          "package_name": "com.apiero.myarrogyamoral"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630327568157-8lmlb19ltj7nl5ps1k4lgs3rhb5sdikp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apiero.myarrogyamoral",
+            "certificate_hash": "73923d813fe03896ba2dca63fc0c9dfeadc65591"
+          }
+        },
+        {
+          "client_id": "630327568157-8dpsoifargapbt56gmdsmgqqea4ju9h6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGSGm2Ju9fk4c2Kz5LyTivr22gK-JyWB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630327568157-8dpsoifargapbt56gmdsmgqqea4ju9h6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
